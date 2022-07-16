@@ -1,4 +1,4 @@
-Olá! João Paulo
+Olá sou João Paulo
 ##
 - 🔭  Desenvoveldor
 - 👨‍💻  Estudando HTML5, CSS3 E JavaScript
