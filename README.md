@@ -1,6 +1,6 @@
-Olá sou João Paulo
+Meu nome é  <a href="https://www.linkedin.com/in/joao-paulo-sampaio-604a1823b/" target="_blank"> <i>João Paulo</i>
 ##
-- Desenvolvedor front-end
+- Desenvolvedor Front End
 - Estudando HTML5, CSS3 e JavaScript👨🏽‍💻
 - Tecnologia da informação
 <div align="center">
