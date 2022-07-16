@@ -1,7 +1,7 @@
 Olá sou João Paulo
 ##
 - Desenvolvedor front-end
-- Estudando HTML5, CSS3 E JavaScript👨🏽‍💻
+- Estudando HTML5, CSS3 e JavaScript👨🏽‍💻
 - Tecnologia da informação
 <div align="center">
   <a href="https://github.com/joaostyle">
