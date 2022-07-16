@@ -1,6 +1,6 @@
 Olá! João Paulo
 ##
-- 🔭 front-end
+- 🔭  Desenvoveldor
 - 👨‍💻  Estudando HTML5, CSS3 E JavaScript
 - 😄 Pronouns:ele/dele
 <div align="center">
