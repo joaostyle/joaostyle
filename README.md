@@ -1,4 +1,4 @@
-Olá! Sou João Paulo
+Olá! João Paulo
 ##
 - 🔭 front-end
 - 👨‍💻  Estudando HTML5, CSS3 E JavaScript
