@@ -1,4 +1,4 @@
-Olá tudo bem? Eu sou o <a href="https://www.linkedin.com/in/joao-paulo-sampaio-604a1823b/" target="_blank"> <i>João Paulo</i>😁
+<p align="center">Olá tudo bem? Eu sou o <a href="https://www.linkedin.com/in/joao-paulo-sampaio-604a1823b/" target="_blank"> <i>João Paulo</i>😁</p>
 ##
 - Desenvolvedor Front End
 - Estudando HTML5, CSS3 e JavaScript👨🏽‍💻
