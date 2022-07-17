@@ -1,8 +1,11 @@
-<p align="center">Olá tudo bem? Eu sou o <a href="https://www.linkedin.com/in/joao-paulo-sampaio-604a1823b/" target="_blank"> <i>João Paulo</i>😁</p>
+
+Meu nome é <a href="https://www.linkedin.com/in/edududuribeiro/"><i>João Paulo</i></a> e eu estudo Desenvolvimento Web 😃️
+
 ##
 - Desenvolvedor Front End
 - Estudando HTML5, CSS3 e JavaScript👨🏽‍💻
 - Tecnologia da informação
+<div>
 <div align="center">
   <a href="https://github.com/joaostyle">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaostyle&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
