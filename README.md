@@ -1,7 +1,6 @@
 
-Meu nome é <a href="https://www.linkedin.com/in/edududuribeiro/"><i>João Paulo</i></a> e eu estudo Desenvolvimento Web 😃️
+## Meu nome é <a href="https://www.linkedin.com/in/edududuribeiro/"><i>João Paulo</i></a> e eu estudo Desenvolvimento Web 😃️
 
-##
 - Desenvolvedor Front End
 - Estudando HTML5, CSS3 e JavaScript👨🏽‍💻
 - Tecnologia da informação
